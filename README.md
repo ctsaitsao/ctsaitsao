@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. Check out my robotics projects by going to my [repositories page](https://github.com/ctsaitsao?tab=repositories). Each repo has a detailed README describing the intricacies of each project.
 
 <!--
 **ctsaitsao/ctsaitsao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
